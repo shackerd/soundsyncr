@@ -26,6 +26,8 @@ clap package : https://docs.rs/clap/4.3.9/clap/
 
 serde package : https://docs.rs/serde/latest/serde/
 
+midir package : https://docs.rs/midir/0.9.1/midir/
+
 ## Running project
 
 ``` bash
