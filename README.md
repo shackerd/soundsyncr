@@ -1,4 +1,4 @@
-# SoundSyncr
+# SoundSyncr (WIP)
 
 Yet another volume management tool.
 
