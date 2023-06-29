@@ -25,3 +25,10 @@ cpal package : https://docs.rs/cpal/0.15.2/cpal/
 clap package : https://docs.rs/clap/4.3.9/clap/
 
 serde package : https://docs.rs/serde/latest/serde/
+
+## Running project
+
+``` bash
+just build
+just run
+```
